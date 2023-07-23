@@ -9,7 +9,7 @@ My skills are
 - VueJs
 - TailwindCSS
 - Framer Motion
-- 
+  
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=a-Marino&show_icons=true&theme=gruvbox)
 
 <!--
