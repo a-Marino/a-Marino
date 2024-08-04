@@ -6,7 +6,7 @@ My skills are
 - CSS
 - JavaScript
 - React
-- VueJs
+- NextJs
 - TailwindCSS
 - Framer Motion
   
